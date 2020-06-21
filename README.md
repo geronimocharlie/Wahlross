@@ -88,5 +88,5 @@ Wenn ihr conda habt, könnt ihr die bereitgestellte environment.yml benutzen.
 
 foo@bar:$ conda env create -f environment.yml
 foo@bar:$ conda activate wahlross
-(wahlross) foo@bar:$ python wahross.py
+(wahlross) foo@bar:$ python wahlross.py
 ```
