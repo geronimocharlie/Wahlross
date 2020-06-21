@@ -86,7 +86,7 @@ Bei mir läutf das Wahross unter Ubuntu 18.04.4 LTS, Python 3.8.3. Benötigt wir
 Wenn ihr conda habt, könnt ihr die bereitgestellte environment.yml benutzen.
 ```console
 
-foo@bar: conda env create -f environment.yml
-foo@bar: conda activate wahlross
-(wahlross) foo@bar: python wahross.py
+foo@bar:$ conda env create -f environment.yml
+foo@bar:$ conda activate wahlross
+(wahlross) foo@bar:$ python wahross.py
 ```
